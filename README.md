@@ -1,13 +1,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&animation=fadeIn&color=gradient&section=header"/>
 </p>
-
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=lucassmaragdiou.lucassmaragdiou&title=Profile%20Views&color=0e75b6&style=flat-square)
-
 <p align="center">
   <img src="https://github.com/lucassmaragdiou/lucassmaragdiou/blob/main/coding-guy.gif?raw=true" />
 </p>
 
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=lucassmaragdiou.lucassmaragdiou&title=Profile%20Views&color=0e75b6&style=flat-square)
 ---
 
 ## 🛠️ Languages and Tools
