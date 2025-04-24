@@ -24,10 +24,9 @@
 
 <br>
 
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=lucassmaragdiou&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="ChijiokeOkorji's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=lucassmaragdiou&theme=transparent&count_private=true&border_radius=10&locale=en" alt="ChijiokeOkorji's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=lucassmaragdiou&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ChijiokeOkorji's Most Used Languages" />
+<div align="center">
+  <img width="390" height="200" src="https://github-readme-stats.vercel.app/api?username=lucassmaragdiou&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="GitHub Stats" style="border-radius: 10px;"/>
+  <img width="390" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=lucassmaragdiou&theme=transparent&count_private=true&border_radius=10&locale=en" alt="GitHub Streak" style="border-radius: 10px;"/>
 </div>
 
 <hr>
@@ -37,4 +36,7 @@
 <!-- 🧠 Footer (Optional Quote or Motto) -->
 <p align="center">
   <i>“Strive not to be a success, but rather to be of value.” – Albert Einstein</i>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&animation=fadeIn&color=gradient&section=header"/>
 </p>
