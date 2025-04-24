@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 - 👋 Hi, I’m @lucassmaragdiou
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -5,6 +9,10 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 
+
+
 
 <div align="center"> 
   <p>Visitor count</p>
