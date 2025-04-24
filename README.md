@@ -6,19 +6,18 @@
 </p>
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=lucassmaragdiou.lucassmaragdiou&title=Profile%20Views&color=0e75b6&style=flat-square)
----
+<hr>
 
 ## 🛠️ Languages and Tools
 
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python," />
+  <img src="https://skillicons.dev/icons?i=python,html,java" />
 </p>
 
 <hr>
 
----
 
 ## 📊 Github Stats
 
@@ -30,8 +29,6 @@
 </div>
 
 <hr>
-
----
 
 <!-- 🧠 Footer (Optional Quote or Motto) -->
 <p align="center">
