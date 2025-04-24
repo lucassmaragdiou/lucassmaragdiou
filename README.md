@@ -38,5 +38,5 @@
   <i>“Strive not to be a success, but rather to be of value.” – Albert Einstein</i>
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&animation=fadeIn&color=gradient&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&animation=fadeIn&color=gradient&section=footer"/>
 </p>
