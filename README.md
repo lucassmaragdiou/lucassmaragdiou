@@ -11,4 +11,4 @@
   <img src="https://profile-counter.glitch.me/{lucassmaragdiou}/count.svg" alt="Visitor's Count" />
 </div>
 
-<img src="https://github.com/{lucassmaragdiou}/{lucassmaragdiou}/blob/main/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+<img src="(https://github.com/{lucassmaragdiou}/{lucassmaragdiou}/blob/main/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)" alt="coding gif">
