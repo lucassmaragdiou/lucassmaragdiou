@@ -6,9 +6,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
+
 <div align="center"> 
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/{lucassmaragdiou}/count.svg" alt="Visitor's Count" />
 </div>
---->
+
